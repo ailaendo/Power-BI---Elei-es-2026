@@ -1,0 +1,43 @@
+📊 Dashboard Eleitoral 2026 — Análise de Resultados
+
+Sobre o Projeto
+Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI, com o objetivo de apresentar e analisar os resultados das Eleições 2026 no Brasil.
+A proposta é transformar os dados eleitorais em informações visuais e interativas, permitindo explorar a votação dos candidatos, partidos e cargos, além de comparar os resultados por estado e município.
+O projeto está em desenvolvimento e será atualizado gradualmente com novas páginas, indicadores, análises e funcionalidades.
+
+📌 Desenvolvimento atual
+Nesta primeira etapa, foi desenvolvida a página de Visão Geral, que apresenta uma visão inicial dos dados eleitorais, incluindo:
+- Indicadores gerais de votação;
+- Visualização dos candidatos à Presidência;
+- Fotografias dos candidatos presidenciais;
+- Filtros interativos por turno, cargo e localização;
+- Primeiras visualizações para exploração dos resultados eleitorais.
+
+🛠️ Ferramentas e Tecnologias
+- Power BI: desenvolvimento do dashboard e visualização dos dados;
+- DAX: criação de medidas, indicadores e cálculos de percentual de votos;
+- Power Query: tratamento, transformação e preparação dos dados;
+- Excel: armazenamento e organização das bases eleitorais;
+- ImgBB: hospedagem das imagens dos candidatos presidenciais, utilizando links públicos para incorporá-las ao Power BI.
+
+📂 Dados utilizados
+
+O projeto utiliza duas bases de dados eleitorais, referentes ao:
+- 1º Turno;
+- 2º Turno.
+As bases contêm informações sobre UF, município, cargo, número e nome dos candidatos, partido, situação da totalização, votos nominais e percentuais de votação.
+Os dados são utilizados para construir análises comparativas e geográficas dos resultados eleitorais.
+
+🚧 Próximas etapas
+
+O dashboard continuará sendo desenvolvido, com previsão de inclusão de:
+- Análise detalhada por candidato;
+- Comparação de votação entre os turnos;
+- Distribuição geográfica dos votos por estado e município;
+- Ranking de candidatos e partidos;
+- Indicadores percentuais de votação;
+- Análises específicas por cargo;
+- Novas métricas e visualizações interativas.
+
+🎯 Objetivo
+Além de explorar os dados eleitorais, este projeto tem como objetivo aplicar e aprimorar conhecimentos em Business Intelligence, modelagem de dados, Power Query e DAX, desenvolvendo habilidades práticas em análise e visualização de dados.
